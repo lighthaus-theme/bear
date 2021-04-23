@@ -1,5 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/lighthaus-theme/bear/52e4e04fae0f0e3201c6525bf1efeab8f1592574/assets/bear-badge.svg" width="230"><p>
 
+<h2 align="center">Bear-App Lighthaus</h2>
+
 A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [Bear](https://bear.app/).
 
 ### Table of Contents
