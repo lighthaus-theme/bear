@@ -6,7 +6,6 @@ A [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme for [Bear](htt
 
 ### Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -35,19 +34,21 @@ Bear can be installed from the Apple App Store.
 </p>
 
 ### Usage
+
 Lighthaus is available with Bear since version `1.8.4`
-_(Please note, Lighthaus theme for Bear has been listed as "Lighthouse" in Bear prefrences)_
 
 #### MacOS
+
 - Open Bear on your Mac
 - Open Prefrences by either going to `Bear -> Prefrences...` or by pressing `CMD+,`
-- Select "Lighthouse" from the themes menu.
+- Select "Lighthaus" from the themes menu.
 <p align="center"><img src="https://github.com/lighthaus-theme/bear/blob/main/assets/bear-05.png?raw=true" width="500"><p>
 
 #### iOS
+
 - Open Bear on your iPad or iPhone
 - Open Prefrences
-- Select "Lighthouse" from the themes menu.
+- Select "Lighthaus" from the themes menu.
 
 ### License
 
